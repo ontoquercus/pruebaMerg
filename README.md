@@ -25,6 +25,7 @@ Interface
 5. (OPCIONAL : Se puntuará sobre 3 puntos): Una vez el grupo haya terminado sus modificaciones, éstas tendrán que ser actualizadas a mi repositorio base (jesusredondo/practicaPAINT). Para realizar dichas modificaciones. Vosotros seréis los encargados de hacer un MERGE de vuestro repositorio con el mío y después hacer un PULL REQUEST (pedir que los cambios de vuestro repositorio se apliquen al mío).
 No aceptaré PULL REQUESTS en los cuales yo tenga que hacer el MERGE.
 
+5. Acabar la práctica
 
 ##Licencia
 

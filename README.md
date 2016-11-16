@@ -1,8 +1,8 @@
-Práctica PAINT
-=========================
+PALABRA
 
-Este repositorio contiene la base para la práctica PAINT de la asignatura de Desarrollo de 
+PALABRA2
 
+<<<<<<< HEAD
 
 Interface
 
@@ -28,3 +28,6 @@ No aceptaré PULL REQUESTS en los cuales yo tenga que hacer el MERGE.
 ##Licencia
 
 La licencia de este repositorio y todo su contenido es [GNU General Public License v.3.0](https://es.wikipedia.org/wiki/Licencia_p%C3%BAblica_general_de_GNU) 
+=======
+OTRAPALABRA
+>>>>>>> ontoquercus/master

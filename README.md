@@ -11,7 +11,7 @@ Interface
 
 ##Instrucciones:
 
-1. Esta práctica se llevará a cabo en grupos de 2-3 participantes.
+1. Esta práctica se llevará a cabo en grupos de 2-3 RATA.
 
 2. Cada grupo tendrá que decidir qué modificación desea hacer sobre el ejercicio base. Tendrá que defender qué dificultades tiene dicha modificación y luego exponer su funcionamiento ante los compañeros. El primer paso pues, será escribir un informe de mejora utilizando ISSUES. Los issues se escribirán sobre este repositorio jesusredondo/practicaPAINT.
 
